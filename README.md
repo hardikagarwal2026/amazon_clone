@@ -23,7 +23,7 @@ A simple Amazon home page clone built using HTML and CSS. This project replicate
    ```
 2. Navigate to the project folder:
    ```sh
-   cd amazon_clone-main
+   cd amazon_clone
    ```
 3. Open `index.html` in a web browser.
 
