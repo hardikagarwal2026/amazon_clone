@@ -27,6 +27,15 @@ A simple Amazon home page clone built using HTML and CSS. This project replicate
    ```
 3. Open `index.html` in a web browser.
 
+---
+
+## 📸 UI Preview  
+
+![Amazon Clone UI](screenshot1.png) 
+![Amazon Clone UI](screenshot2.png)  
+
+---
+
 ## Future Improvements
 
 - Add JavaScript for interactive features like a working search bar and product slider.
